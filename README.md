@@ -1,2 +1,2 @@
-# dnasingha.github.io
+# srdhungana.github.io
  Singha Raj Dhungana's website
