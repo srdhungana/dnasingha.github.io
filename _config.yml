@@ -1,2 +1,3 @@
 name: Singha Raj Dhungana, PhD Candidate
-	markdown: kramdown
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
